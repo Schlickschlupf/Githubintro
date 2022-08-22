@@ -3,3 +3,4 @@ Shopping List:
 Apples
 Oranges
 Carrots
+Cereal
