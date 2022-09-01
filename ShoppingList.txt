@@ -1,6 +1,7 @@
 Shopping List:
 
-Apples
-Oranges
-Carrots
-Cereal
+apples
+oranges
+carrots
+cereal
+bananas
